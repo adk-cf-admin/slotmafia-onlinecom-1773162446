@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://slotmafia-online.com/
+Sitemap: https://slotmafia-online.com/sitemap.xml

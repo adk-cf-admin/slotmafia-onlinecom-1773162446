@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1C1C1C",
+            "lang-select-color": "#222829",
+            "bg-light": "#1C1C1C",
+            "welcome-bonus-bg": "#1C1C1C",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#3c3c3c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#D08F4B",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D08F4B",
+            "yellow": "#444444",
+            "yellow-button": "#D08F4B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1C1C1C",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#1C1C1C",
+            "faq-label": "#1C1C1C",
+            "bg-footer": "#1C1C1C",
+            "copyright": "#e7e7d5",
+            "starColor": "#D08F4B",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4187"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4188",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Slotmafia Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4189",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Slotmafia"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Slotmafia",
+                    "title": "Slotmafia — Best Australian Online Casino | AU$22,500 Bonus",
+                    "description": "Play at Slotmafia Australia with 10,000+ real money pokies & live dealers. Claim your AU$22,500 + 350 Free Spins bonus. Instant PayID & Crypto payouts!\n",
+                    "canonical": "slotmafia-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4190",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slotmafia-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4191"
+                },
+                "hero": {
+                    "title": "Welcome to Slotmafia: Australia's Premier Online Casino",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4192",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4193",
+                    "mobileImageSizeModifier": -10,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a premium gambling experience in Australia? Operating under a reputable Curaçao license, we offer Aussies over 10,000 certified games, lightning-fast PayID withdrawals, and 24\/7 support. Here is why players choose our mafia-themed platform:\n",
+                    "items": [
+                        "Licensed by Curaçao eGaming with 98% average payout rate",
+                        "10,000+ pokies and live games from 80+ top-tier providers",
+                        "Massive AU$22,500 + 350 Free Spins welcome package",
+                        "Instant crypto and PayID withdrawals for Australian players",
+                        "SSL 256-bit encryption ensuring 100% secure AUD transactions",
+                        "Dedicated iOS and Android mobile apps for gaming on the go"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Aussie players who trust our secure platform. Step into our world, claim your massive welcome package, and experience top-tier VIP treatment with 24\/7 local customer support.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Slotmafia App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4194",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Slotmafia App",
+                    "mobileGooglePlayImageTitle": "Slotmafia App",
+                    "mobileIosImageTitle": "Slotmafia App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Slotmafia Casino",
+                        "description1": "Launched to revolutionize the Australian gambling market, we bring a sophisticated mafia-inspired gaming experience. We provide Aussie players with a luxurious platform featuring over 10,000 top-rated pokies and premium live dealer tables.\n",
+                        "items": [
+                            "Reached milestone of 10,000+ certified casino games",
+                            "Integrated seamless PayID and Crypto AUD payments",
+                            "Launched dedicated iOS and Android mobile applications",
+                            "Introduced our exclusive AU$22,500 welcome package"
+                        ],
+                        "description2": "We operate under the strict regulations of Curaçao eGaming, ensuring a safe environment. Our platform utilizes advanced SSL 256-bit encryption for all AUD transactions, while our RNG games are independently audited for complete fairness.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4195",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continuously expand our crypto-friendly platform with new exclusive pokies for Australian players. Our commitment to responsible gambling ensures a secure journey. Join our family today and experience true VIP gaming down under!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Ultimate Pokies & Live Casino for Aussies",
+                        "description": "<h2>Ultimate Pokies and Live Casino Portfolio for Aussies<\/h2>\n<p>Welcome to the most extensive and luxurious online gambling destination tailored specifically for the Australian market. At our casino, we pride ourselves on delivering an unparalleled gaming portfolio that caters to every type of player, from casual spinners to high-rolling VIPs. We have partnered with over 80 of the industry's most respected software providers to curate a massive library featuring more than 10,000 certified games. Our Australian players can immerse themselves in a world of high-quality graphics, engaging storylines, and fair outcomes guaranteed by independent testing agencies. Whether you are logging in from Sydney, Melbourne, or Perth, our platform guarantees a seamless, lag-free entertainment experience directly in AUD currency. We have meticulously organized our lobby to help you easily navigate through thousands of video pokies, classic table games, and immersive live dealer sessions.<\/p>\n\n<h3>Unrivaled Online Pokies Collection<\/h3>\n<p>Our selection of online pokies forms the beating heart of our platform, offering thousands of titles with diverse themes and innovative mechanics. We feature the hottest releases from legendary studios such as Pragmatic Play, BGaming, Booongo, and NetEnt, ensuring that Aussie players always have access to top-tier content. You can explore everything from classic three-reel fruit machines that evoke a nostalgic feeling to highly complex video pokies loaded with interactive bonus rounds. Our games boast impressive Return to Player (RTP) percentages, frequently exceeding 96%, which maximizes your winning potential during long sessions. Popular titles like Wolf Treasure, Gates of Olympus, and Sweet Bonanza remain absolute favorites among our Australian community due to their stunning visual effects and massive multiplier capabilities. Furthermore, we constantly update our library with fresh releases weekly, meaning you will never run out of thrilling new adventures to try.<\/p>\n\n<h3>Thrilling Megaways and Bonus Buy Features<\/h3>\n<p>For those seeking high-volatility action, our dedicated Megaways section offers an incredible dynamic experience where the number of paylines can reach up to 117,649 ways to win on a single spin. Licensed by Big Time Gaming, this revolutionary mechanic has transformed traditional pokies, providing cascading reels and escalating multipliers that can lead to astronomical payouts. Additionally, we understand that many Australian players prefer to skip the base game and dive straight into the action, which is why we offer a massive selection of Bonus Buy games. By paying a predetermined multiple of your stake, you can instantly trigger the free spins or bonus rounds, bypassing the waiting time entirely. This feature is particularly popular among our high rollers who want to maximize their entertainment value and test the game's maximum win potential immediately. All our Megaways and Bonus Buy titles operate on strictly audited RNG software to ensure completely random and fair outcomes every time.<\/p>\n\n<h3>Progressive Jackpots and Massive Payouts<\/h3>\n<p>If you are dreaming of life-changing wins, our progressive jackpot network is exactly where you need to be. We host dozens of interconnected jackpot pokies where the prize pool continuously grows with every bet placed across the global network until one lucky player triggers the grand prize. Our jackpot portfolio includes both local drops that guarantee daily payouts and massive progressive titles that can award millions of Australian dollars in a single spin. We proudly feature iconic games from providers like Betsoft and Yggdrasil, renowned for their lucrative jackpot mechanics and engaging gameplay. Every spin on these specific pokies gives you a legitimate chance to join our exclusive list of big winners. Transparency is our priority, so the current jackpot amounts are always displayed in real-time within the game lobby, allowing you to choose the most lucrative opportunities available.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #cd8f4e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Wolf Treasure<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.0%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2,000x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a2a2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Gates Olympus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5,000x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Sweet Bonanza<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.4%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">21,100x<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a2a2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Elvis Frog<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.0%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2,500x<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Do you offer live dealer games for Australian players?<\/h3>\n<p>Yes, we offer a comprehensive suite of over 300 live dealer games specifically optimized for our Australian audience, streaming in stunning 4K resolution directly to your device.<\/p>\n<p>Our live casino is powered by industry giants such as Evolution Gaming and Pragmatic Play Live, ensuring the highest production values and professional dealers. Australian players can enjoy real-time interaction, authentic casino sounds, and multiple camera angles that replicate the atmosphere of a high-end land-based establishment. We have tailored our table limits to accommodate both cautious beginners playing with a few dollars and VIP high rollers wagering thousands per hand. The streams run flawlessly 24\/7, meaning you can join a table whether you are playing during a lunch break in Brisbane or enjoying a late-night session in Adelaide.<\/p>\n\n<h3>Premium Live Casino Experience<\/h3>\n<p>Stepping into our live casino section transports you to luxurious VIP studios without ever having to leave your home. We offer an extensive variety of classic and modern live games, ensuring endless entertainment for every preference.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette Innovations:<\/strong> Experience the thrill of Lightning Roulette with random multipliers up to 500x, immersive Immersive Roulette with slow-motion replays, and classic European Roulette boasting a player-friendly 97.3% RTP.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Professional Live Blackjack:<\/strong> Take your virtual seat at our Infinite Blackjack tables, enjoy the VIP treatment at Salon Privé, or try your luck with side bets like Perfect Pairs and 21+3 for enhanced payout opportunities.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Authentic Baccarat Tables:<\/strong> We feature Speed Baccarat for rapid rounds, Baccarat Squeeze for authentic tension, and No Commission Baccarat to optimize your returns on Banker bets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exciting Game Shows:<\/strong> Participate in interactive TV-style productions like Crazy Time, Monopoly Live, and Sweet Bonanza Candyland, which combine standard betting with massive multiplier wheels and augmented reality bonus rounds.<\/li>\n<\/ul>\n\n<h3>Classic Table Games: Roulette and Blackjack<\/h3>\n<p>For players who prefer the pace of software-based gaming, our virtual table games collection provides hundreds of sophisticated options. These RNG-powered variants allow you to practice your strategies without the time constraints of a live dealer. We offer standard American, French, and European Roulette, each featuring detailed statistical tracking and customizable betting layouts. Blackjack enthusiasts can explore variations such as Single Deck Blackjack, Double Exposure, and Pontoon, all featuring exceptional theoretical returns exceeding 99% when utilizing optimal basic strategy. Moreover, we provide an excellent selection of Casino Hold'em, Caribbean Stud, and Video Poker machines like Jacks or Better and Deuces Wild. All our digital table games are rigorously tested by eCOGRA to ensure the random number generators function perfectly and simulate true deck shuffling probabilities.<\/p>\n\n<h3>Mobile Gaming App for iOS and Android<\/h3>\n<p>We understand that modern Australian gamblers demand absolute flexibility, which is why our platform is fully optimized for mobile devices. Rather than relying solely on browser play, we have developed dedicated, high-performance applications for both iOS and Android smartphones and tablets. These apps deliver lightning-fast loading times, reduced data consumption, and push notifications so you never miss an exclusive bonus drop. The entire library of 10,000+ games transitions flawlessly to smaller screens, utilizing HTML5 technology to ensure smooth animations and intuitive touch controls. Whether you are commuting, relaxing at home, or traveling across Australia, our mobile casino puts a world-class gambling establishment right in your pocket. You can easily manage your bankroll, contact support, and request instant payouts directly through the secure mobile interface.<\/p>\n\n<h3>Exclusive Mafia-Themed Gamification<\/h3>\n<p>What truly sets us apart in the crowded Australian market is our deeply immersive mafia-themed gamification system. From the moment you register, you are inducted into our exclusive Family as an Associate, with the ultimate goal of rising through the ranks to become the Boss. As you play your favorite pokies and live games, you earn loyalty points and complete specific syndicate missions that unlock lucrative rewards. This unique narrative-driven approach transforms standard casino gameplay into an engaging adventure where every bet contributes to your progression. Higher ranks unlock incredible VIP perks, including dedicated account managers, tailored reload bonuses, expanded withdrawal limits, and exclusive invitations to real-world events. We have crafted this ecosystem to ensure our most loyal Aussie players receive consistent, high-value recognition for their dedication to our platform.<\/p>\n\n<h3>Fair Play and Certified RNG Software<\/h3>\n<p>Trust and transparency are the foundational pillars of our operations. Operating under the esteemed Curaçao eGaming license held by Hollycorn N.V., we adhere to strict international regulatory standards. Every single game hosted on our platform, from the simplest slot machine to the most complex virtual table game, utilizes a sophisticated Random Number Generator (RNG). These systems are regularly audited and certified by independent testing laboratories like iTech Labs and eCOGRA, guaranteeing that game outcomes are completely arbitrary and immune to manipulation. We proudly publish our overall theoretical payout percentage, which consistently averages around 98%, reflecting our commitment to providing a genuinely fair gaming environment. When you play with us, you can have total confidence that the software is secure, the odds are legitimate, and your potential winnings are fully protected.<\/p>\n\n<h3>Join the Ultimate Australian Casino Destination<\/h3>\n<p>We invite you to experience the pinnacle of online entertainment tailored specifically for the Australian market. Our commitment to providing a massive, diverse, and technically flawless game library ensures that every session is packed with excitement and winning potential. With over 10,000 titles from the world's best developers, you have endless opportunities to discover new favorites and trigger spectacular payouts. Our secure, licensed, and expertly designed platform guarantees peace of mind, allowing you to focus entirely on the thrill of the game. Do not settle for mediocre alternatives when you can enjoy premium graphics, authentic live dealers, and immersive gamification features right here. Register your account today, claim your massive welcome package, and take your first step toward becoming the ultimate boss in our exclusive gaming family. The best pokies, the highest jackpots, and the most professional live tables are waiting for you!<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Secure Banking, Crypto Payments & VIP Bonuses",
+                        "description": "<h2>Secure Banking, Crypto Payments & VIP Bonuses for Aussies<\/h2>\n<p>Managing your bankroll securely and efficiently is a critical aspect of the online gambling experience, and we have built a world-class financial infrastructure specifically for our Australian players. We understand that Aussies demand fast, reliable, and hassle-free transactions, which is why we support a massive array of localized fiat options alongside cutting-edge cryptocurrency networks. Operating under a strict Curaçao license, we ensure that every single deposit and withdrawal is processed through highly encrypted gateways, protecting your sensitive financial data from any unauthorized access. Furthermore, our spectacular financial ecosystem is paired with some of the most generous promotional offers in the industry, designed to maximize your playing time and winning potential. From your very first deposit to your ongoing weekly reloads, our bonus system and VIP rewards provide continuous value, ensuring that your loyalty is always heavily compensated in true mafia style.<\/p>\n\n<h3>Seamless AUD Deposits via PayID and Cards<\/h3>\n<p>Funding your account should be instant and effortless, allowing you to jump straight into the action. We proudly support PayID, Australia’s preferred instant banking solution, enabling you to transfer funds directly from your local bank account securely and within seconds. For players who prefer traditional methods, we fully accept major credit and debit cards, including Visa and Mastercard, guaranteeing smooth AUD transactions without exorbitant hidden conversion fees. We also integrate popular prepaid options like Neosurf, which is perfect for players looking to manage their budget strictly while maintaining financial privacy. The minimum deposit amount is set at a highly accessible AU$30, ensuring that both casual enthusiasts and high-rolling VIPs can fund their accounts comfortably. All fiat deposits are processed instantly, meaning your credits will appear in your casino balance the moment you confirm the transaction on your device.<\/p>\n\n<h3>Cryptocurrency Casino Integration<\/h3>\n<p>As a forward-thinking digital casino, we have fully embraced the blockchain revolution to offer our players the ultimate in financial privacy and speed. We process transactions across a multitude of popular cryptocurrency networks, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Dogecoin (DOGE), Ripple (XRP), and Tether (USDT). Utilizing crypto for your casino banking provides unparalleled advantages, such as near-instantaneous processing times, extremely low network fees, and enhanced anonymity since you do not need to share traditional bank details. Furthermore, our crypto deposits are entirely decentralized, meaning they are not subject to the restrictive policies sometimes imposed by Australian traditional banks regarding gambling transactions. Whether you are an experienced crypto trader or a newcomer to digital currencies, our cashier interface provides simple, easy-to-follow wallet addresses and QR codes to ensure your funds are transferred seamlessly and securely to your gaming balance.<\/p>\n\n<h3>How long do withdrawals take to Australian accounts?<\/h3>\n<p>Withdrawals requested via cryptocurrencies or PayID are processed and delivered instantly or within 2 hours, while traditional bank transfers and card refunds typically take between 1 to 3 business days to clear.<\/p>\n<p>We pride ourselves on offering some of the fastest payout speeds in the Australian market because we believe you should never have to wait to enjoy your hard-earned winnings. Once your account is fully verified through our standard KYC procedure, our dedicated finance team works around the clock to approve your cashout requests as swiftly as possible. E-wallets and crypto networks operate 24\/7, meaning you can receive your funds even on weekends and public holidays. We provide full transparency regarding transaction statuses within your account dashboard, allowing you to track your money every step of the way.<\/p>\n\n<h3>Lightning-Fast Payouts and Transaction Limits<\/h3>\n<p>Our withdrawal policies are designed to accommodate both standard recreational players and our elite high-stakes VIPs. We have implemented generous standard withdrawal limits allowing players to cash out up to AU$3,000 per week and AU$15,000 per month, though these caps are significantly increased as you climb the ranks of our VIP mafia family. To guarantee the absolute security of your funds, we require all players to complete a simple Know Your Customer (KYC) verification process before their first withdrawal. This involves securely uploading a standard proof of identity and a recent utility bill to confirm your Australian address.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Crypto Payouts:<\/strong> Withdrawals via Bitcoin, Ethereum, and other digital assets are processed rapidly, usually reflecting in your personal wallet within minutes of our internal approval.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PayID Transfers:<\/strong> A highly popular choice for Aussies, enabling lightning-fast direct transfers back to your local bank account without intermediary delays.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Zero Hidden Fees:<\/strong> We do not charge any internal processing fees for your withdrawals, ensuring you keep 100% of the money you have rightfully won on our pokies and tables.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Secure Bank Wires:<\/strong> For massive jackpot wins, we utilize secure international bank wire transfers directly to your Australian bank, fully compliant with global financial regulations.<\/li>\n<\/ul>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #cd8f4e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Time<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>PayID<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a2a2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c1c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1-3 Days<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a2a2a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bank Wire<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">AU$50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2-4 Days<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Unbeatable AU$22,500 Welcome Bonus Package<\/h3>\n<p>We roll out the red carpet for new Australian players with one of the most lucrative welcome packages available anywhere online. Upon registration, you become eligible to claim an astonishing bonus package worth up to AU$22,500, comprehensively spread across your first four deposits. To sweeten the deal, we also bundle in 350 Free Spins on top-rated Pragmatic Play and BGaming pokies, giving you massive additional winning potential without risking your own cash. This incredible boost significantly extends your gameplay, allowing you to explore our massive library of 10,000+ games with a highly fortified bankroll. We maintain transparent and fair terms, with a standard 50x wagering requirement attached to the bonus funds, which is highly competitive considering the sheer volume of the bonus cash provided. To trigger these rewards, simply ensure your deposits meet the minimum qualifying amount and select the bonus offer directly within the cashier.<\/p>\n\n<h3>Lucrative Free Spins and Weekend Reloads<\/h3>\n<p>The rewards do not stop once you have exhausted your welcome package; our promotional calendar is absolutely packed with ongoing value for existing players. Every week, Australian players can claim generous reload bonuses that match a percentage of their deposits, perfectly timed to boost your bankroll ahead of the busy weekend action. We frequently distribute hundreds of Free Spins on the latest pokie releases, allowing our community to test new mechanics risk-free. Furthermore, we host thrilling daily and weekly tournaments in collaboration with major providers like Pragmatic Play's Drops & Wins, offering massive networked prize pools reaching millions of dollars. For players who experience an unlucky streak, we provide lucrative cashback offers that return a percentage of your net losses directly to your account as real cash, giving you a valuable second chance to hit a massive jackpot.<\/p>\n\n<h3>Elite VIP Program for High Rollers<\/h3>\n<p>Loyalty means everything in our family, which is why we have engineered a multi-tiered VIP program that rewards you for every single wager placed on the platform. As you accumulate loyalty points, you will rise through the mafia ranks, unlocking progressively better rewards at each new tier. Elite VIP members receive the absolute best treatment the industry has to offer, including a dedicated personal account manager available 24\/7 via private messaging channels. You will also benefit from expedited priority withdrawals, massive increases to your daily and monthly cashout limits, and bespoke bonus offers tailored specifically to your preferred gaming style. When you reach the status of Boss, the perks extend beyond the digital realm, with invitations to exclusive hospitality events, luxury physical gifts, and personalized milestone rewards that truly reflect your elite status.<\/p>\n\n<h3>Strict Security Measures and Data Protection<\/h3>\n<p>Your safety is our absolute highest priority. Our platform operates on a heavily fortified technical infrastructure protected by military-grade SSL 256-bit encryption technology. This ensures that every piece of personal data and all financial transactions are completely indecipherable to any malicious third parties. We are fully licensed and regulated by the Curaçao eGaming Authority (under Hollycorn N.V.), mandating that we adhere to stringent international standards regarding data protection, financial segregation, and anti-money laundering (AML) protocols. We process all fiat transactions through PCI-DSS compliant payment gateways, providing the same level of security you would expect from a major Australian banking institution. By maintaining these rigorous security protocols, we guarantee that you can enjoy your gaming sessions with complete peace of mind.<\/p>\n\n<h3>Responsible Gambling and Player Support<\/h3>\n<p>We are deeply committed to ensuring that your time with us remains an entertaining and positive experience. Responsible gambling is a core tenet of our operational philosophy, and we provide a comprehensive suite of player protection tools directly within your account settings. Australian players can easily set daily, weekly, or monthly deposit limits to maintain strict control over their entertainment budget. If you need a break, you can instantly activate a cooling-off period or utilize our self-exclusion tools to temporarily or permanently restrict access to the platform. Furthermore, our dedicated customer support team is available 24\/7\/365 via live chat and email to assist you with any concerns. Our highly trained, English-speaking agents understand the specific needs of Aussie players and provide rapid, professional resolutions to any technical or account-related inquiries.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the AU$22,500 welcome bonus package?",
+                            "answer": "Register your account and make a qualifying deposit of at least AU$30. The AU$22,500 package is spread across your first four deposits, alongside 350 Free Spins. Bonus credits are applied instantly with a standard 50x wagering requirement valid for 14 days.\n"
+                        },
+                        {
+                            "title": "What are the fastest withdrawal methods for Australian players?",
+                            "answer": "The absolute fastest payout methods for Aussies are PayID and cryptocurrencies like Bitcoin or Ethereum. Once your account completes the KYC verification, these digital withdrawals are processed instantly or within 2 hours, completely free of any charges.\n"
+                        },
+                        {
+                            "title": "Are the online pokies at this casino fair and certified?",
+                            "answer": "Absolutely. All our 10,000+ games operate on certified Random Number Generators (RNG) audited independently by eCOGRA and iTech Labs. Operating under a strict Curaçao license, we guarantee a completely fair gaming environment with a payout rate of 98%.\n"
+                        },
+                        {
+                            "title": "Can I play real money live dealer games on my mobile phone?",
+                            "answer": "Yes, you can enjoy our entire live casino portfolio flawlessly on your smartphone. We offer dedicated iOS and Android applications, utilizing HTML5 technology to stream 4K HD Evolution and Pragmatic Play tables directly to your mobile device without any lag.\n"
+                        },
+                        {
+                            "title": "Do you accept Bitcoin and other cryptocurrencies for deposits?",
+                            "answer": "We fully support a wide range of popular cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin, Dogecoin, and USDT. Crypto deposits provide instant, highly secure, and anonymous AUD transactions, bypassing any restrictions from local banks.\n"
+                        },
+                        {
+                            "title": "What is the minimum deposit required to start playing?",
+                            "answer": "The minimum deposit to fund your account is just AU$30. You can easily transfer this amount instantly using PayID, Visa, Mastercard, Neosurf, or your preferred cryptocurrency to immediately access our library of over 10,000 premium casino games.\n"
+                        },
+                        {
+                            "title": "How does the VIP program reward loyal Aussie players?",
+                            "answer": "Our mafia-themed VIP program rewards you for every bet placed. As you rank up, you unlock elite perks including a dedicated 24\/7 personal manager, increased withdrawal limits up to AU$50,000 monthly, exclusive weekly cashback, and personalized reload bonuses.\n"
+                        },
+                        {
+                            "title": "Is customer support available 24\/7 for players in Australia?",
+                            "answer": "Yes, our professional English-speaking support team operates 24\/7, 365 days a year. Whether you are playing in Sydney or Perth, you can reach us instantly via the live chat widget for immediate assistance, or send an email for detailed account resolutions.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

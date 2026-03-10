@@ -1,0 +1,19 @@
+{
+  "name": "Slotmafia",
+  "short_name": "Slotmafia",
+  "theme_color": "",
+  "background_color": "#1C1C1C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773161647-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
